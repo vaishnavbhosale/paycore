@@ -1,6 +1,5 @@
 package com.paycore.paycore.ledger;
 
-import jakarta.persistence.Id;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
